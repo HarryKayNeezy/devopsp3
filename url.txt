@@ -1,0 +1,9 @@
+1. URL 01: (Github Public Repo) = https://github.com/HarryKayNeezy/devopsproject3v2.git
+
+2. URL 02: (Public URL for S3 Bucket) = http://udapeople-1d978cf.s3-website-us-east-1.amazonaws.com/#/employees
+
+3. URL 03: (CloudFront Distribution) = https://dcku7cq6w262b.cloudfront.net/#/employees
+
+4. URL 04: http://ec2-184-72-201-131.compute-1.amazonaws.com:3030/api/status
+
+5. URL 05: http://ec2-52-54-235-61.compute-1.amazonaws.com:9090/targets
