@@ -1,4 +1,4 @@
-1. URL 01: (Github Public Repo) = https://github.com/HarryKayNeezy/devopsproject3v2.git
+1. URL 01: (Github Public Repo) = https://github.com/HarryKayNeezy/devopsp3.git
 
 2. URL 02: (Public URL for S3 Bucket) = http://udapeople-1d978cf.s3-website-us-east-1.amazonaws.com/#/employees
 
