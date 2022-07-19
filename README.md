@@ -1,7 +1,7 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/HarryKayNeezy/devopsp3/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/HarryKayNeezy/devopsp3/tree/master)## Give your Application Auto-Deploy Superpowers
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/HarryKayNeezy/devopsp3/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/HarryKayNeezy/devopsp3/tree/master)
 
-===
-===
+
+## Give your Application Auto-Deploy Superpowers
 
 In this project, you will prove your mastery of the following learning objectives:
 
